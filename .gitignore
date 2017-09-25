@@ -1,0 +1,17 @@
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node.js
+node_modules
+npm-debug.log
+package-lock.json
+
+# PHP
+/vendor
+.php_cs.cache
+composer.lock
